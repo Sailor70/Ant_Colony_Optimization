@@ -9,7 +9,9 @@ ACO are probabilistic techniques for finding solutions for combinatorial problem
 ## Screenshots
 
 att48.tsp solution
+
 ![alt tag](https://github.com/Sailor70/Ant_Colony_Optimization/blob/master/screenshots/att48Solution.jpg)
 
 eil48 solution
-![alt tag](https://github.com/Sailor70/Ant_Colony_Optimization/blob/master/screenshots/eil48Solution.jpg)
+
+![alt tag](https://github.com/Sailor70/Ant_Colony_Optimization/blob/master/screenshots/eil51Solution.jpg)
