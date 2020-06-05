@@ -4,7 +4,7 @@ from functions import distance_on_unit_sphere
 from plotSprawko import plot
 
 
-problem = tsplib95.load_problem('ulysses16.tsp', distance_on_unit_sphere)
+problem = tsplib95.load_problem('./data/ulysses16.tsp', distance_on_unit_sphere)
 problem.special=distance_on_unit_sphere
 G = problem.get_graph()
 
